@@ -1,4 +1,6 @@
 # Vulnerable-Flask-App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FVulnerable-Flask-App.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FVulnerable-Flask-App?ref=badge_shield)
+
 
 Erlik 2 - Vulnerable-Flask-App
 
@@ -53,3 +55,7 @@ python3 vulnerable-flask-app.py
 https://twitter.com/anilyelken06
 
 https://medium.com/@anilyelken
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHaritestrisk%2FVulnerable-Flask-App.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHaritestrisk%2FVulnerable-Flask-App?ref=badge_large)
